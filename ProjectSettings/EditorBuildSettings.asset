@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: "Assets/Scenes/stage\uFF13.unity"
+    guid: 19af0815f02eeb24397f104495011e12
+  - enabled: 1
+    path: Assets/Scenes/ENDScreen.unity
+    guid: 8133daa904ef6264181d5cd419955c30
+  - enabled: 1
+    path: Assets/Scenes/ENDScreen 2.unity
+    guid: 1f6e75d411578dd48bfdc0b49acae121
+  - enabled: 1
+    path: Assets/Scenes/ENDScreen 3.unity
+    guid: 540fe87462b2b65409f77cf6bc9723ec
+  - enabled: 1
+    path: Assets/Scenes/GAME OVER.unity
+    guid: ae883cefe103247409605bc221ae6e30
+  - enabled: 1
+    path: Assets/Scenes/GAME OVER 2.unity
+    guid: f1a468f02ed6d3e4d99d1152f86564fd
+  - enabled: 1
+    path: Assets/Scenes/GAME OVER 3.unity
+    guid: 0e3245c1e9a13854db30acd63ecc09bd
+  - enabled: 1
+    path: "Assets/Scenes/stage\uFF12.unity"
+    guid: 5c9d18317e695f74c964ea93d0e7b9ee
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: 2c350d0d172630a49bc2322a7e59c656
+  - enabled: 1
+    path: "Assets/\u8AAC\u660E/\u8AAC\u660E.unity"
+    guid: 240abd269414962409651a75832b0aff
+  m_configObjects: {}
